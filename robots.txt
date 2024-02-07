@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+
+host: furmark-gpu.github.io
+
+Sitemap: https://furmark-gpu.github.io/sitemap.xml
